@@ -1,0 +1,38 @@
+header {
+	color: #fff;
+	background-color: #337ab7;
+	border-color: #2e6da4;
+	height: 100px;
+	width: 100%;
+	display: inline-block;
+}
+
+#menu {
+	background-color: #f5f5f5;
+	width: 150px;
+	float: left;
+	height: 100%;
+	display: none;
+	margin: 0px 5px 0px 0px;
+}
+
+#cuerpo {
+	background-color: inherit;
+	float: left;
+	display: inline-block;
+	height: 100%;
+}
+
+#centro {
+	display: inline-block;
+	width: 100%;
+	min-width: 800px;
+	height: 500px;
+	margin: 5px 5px 0px 5px;
+}
+
+footer {	
+	background-color: silver;
+	display: inline-block;
+	width: 100%;
+}
